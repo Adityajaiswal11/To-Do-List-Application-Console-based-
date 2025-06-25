@@ -1,4 +1,3 @@
-# To-Do-List-Application-Console-based-
 # 📝 Console-Based To-Do List Application
 
 A simple command-line to-do list manager built in Python. This project lets you add, view, and remove tasks. Tasks are saved in a text file for persistence.
