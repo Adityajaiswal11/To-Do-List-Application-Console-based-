@@ -1,0 +1,1 @@
+Enter a new task: Revise all Python OOP concepts and practice file handling, exceptions, and modules for the upcoming test.
